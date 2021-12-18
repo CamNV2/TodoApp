@@ -1,0 +1,25 @@
+
+.form_submit
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input_submit{
+    width: 185px;
+    height: 30px;
+    padding: 5px 10px ;
+    outline: none;
+    border: none;
+}
+.input_submit:focus{
+    border: 1px solid #11998e;
+}
+.button_add{
+    padding-left: 16px;
+}
+.button_add .submit_icon
+{
+    font-size: 25px;
+    color: #11998e;
+}
